@@ -1,0 +1,120 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.ota{
+    width: 1520px;
+    height: 80px;
+    background-color: #282a35;
+    margin-left: 7px;  
+}
+
+.naw1{
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+    
+
+}
+
+.naw{
+    margin-left: 500px;
+    padding-top: 25px;
+}
+
+.salavha{
+    font-size: 40px;
+    margin: 20px 0px 0px 7px;
+}
+.but1{
+    width: 100px;
+    height: 50px;
+    margin: 30px 0px 0px 7px ;
+    background-color: #04aa6d;
+    color: white;
+    font-size: 20px; 
+    border: #04aa6d;
+}
+
+.about{
+    width: 1520px;
+    height: 200px;
+    margin-left: 7px;
+    background-color: #d9eee1;
+    margin-top: 20px;
+    
+}
+
+.text{
+    margin-left: 20px;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.abutbut{
+    width: 280px;
+    height: 50px;
+    background-color: #04aa6d;
+    color: white;
+    font-size: 18px;
+    border: #04aa6d;
+}
+
+.abutbut1 {
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    border: #04aa6d;
+}
+
+.chz{
+    margin-top: 10px;
+    width: 1520px;
+    margin-left: 7px;
+}
+
+.easy{
+    margin: 20px 0px 0px 35px;
+}
+.with{
+    margin: 50px 0px 0px 35px;
+}
+
+.photo{
+    margin-left: 15px;
+    margin-top: 30px;
+}
+
+.html1{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.examples{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.examples1{
+    margin-top: 30px;
+
+}
+
+.go{
+    width: 250px;
+    height: 50px;
+    margin-left: 7px;
+    margin-top: 30px;
+    background-color: #04aa6d;
+    color: white;
+    font-size: 18px;
+    border: #04aa6d;
+}
+
+.exer{
+    margin-left: 20px;
+}

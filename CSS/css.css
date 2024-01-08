@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ota {
+    width: 1520px;
+    height: 80px;
+    background-color: #282a35;
+    margin-left: 7px;
+}
+
+.naw1 {
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+
+
+}
+
+.naw {
+    margin-left: 500px;
+    padding-top: 25px;
+}
+
+.salavha{
+    margin: 7px;
+    margin-top: 20px;
+}
+
+.but1 {
+    width: 100px;
+    height: 50px;
+    margin: 30px 0px 0px 7px;
+    background-color: #04aa6d;
+    color: white;
+    font-size: 20px;
+    border: #04aa6d;
+}
+
+.chz{
+    margin-top: 10px;
+    width: 1520px;
+    margin-left: 7px;
+}
+
+.about {
+    width: 1520px;
+    height: 204px;
+    margin-left: 7px;
+    background-color: #d9eee1;
+    margin-top: 20px;
+
+}
+
+.text {
+    margin-left: 20px;
+    padding: 15px;
+    font-size: 18px;
+}
+
+.abutbut {
+    width: 280px;
+    height: 50px;
+    background-color: #04aa6d;
+    color: white;
+    font-size: 18px;
+    border: #04aa6d;
+}
+
+.exam {
+    margin: 20px 0px 0px 7px;
+}
+
+.text1{
+    margin: 25px 0px 0px 7px;
+}
+
+.text2{
+    margin: 25px 0px 0px 7px;
+}
+
+.photo{
+    margin:25px 0px 0px 7px;
+}
